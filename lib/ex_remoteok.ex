@@ -1,0 +1,2 @@
+defmodule ExRemoteOK do
+end

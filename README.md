@@ -1,2 +1,5 @@
-# ex_remoteok
-Elixir library for RemoteOK api
+# ExRemoteOK
+Elixir library for [RemoteOK](https://remoteok.io/) api
+
+## Features
+**TODO: Add features**
